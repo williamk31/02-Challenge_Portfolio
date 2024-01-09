@@ -28,7 +28,7 @@ header {
     display: flex;
     justify-content: space-between;
     padding: 150px;
-    background-image: url(/Users/williamkalish/bootcamp/02-Challenge/assets/images/Nepal2.jpg);
+    background-image: url(assets/images/Nepal2.jpg);
     background-size: cover;
     background-position: center;
     color:var(--padua);
